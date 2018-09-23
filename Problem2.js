@@ -1,6 +1,6 @@
 var list = ['kasol', 'kasol', 'manali', 'delhi', 'delhi', 'manali', 'kasol'];
 
-console.log(countFrequency(list));
+console.log(countFrequency(list)); // output : [ [ 'delhi', 'kasol', 'manali' ], [ 2, 3, 2 ] ]
 
 
 function countFrequency(arr) {
